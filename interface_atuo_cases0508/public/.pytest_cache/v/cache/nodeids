@@ -1,0 +1,12 @@
+[
+  "Unit_test.py::testHttpRequset::test_get_01",
+  "Unit_test.py::testHttpRequset::test_get_02",
+  "Unit_test.py::testHttpRequset::test_get_03",
+  "Unit_test.py::testHttpRequset::test_get_04",
+  "Unit_test.py::testHttpRequset::test_get_05",
+  "Unit_test.py::testHttpRequset::test_get_06",
+  "Unit_test.py::testHttpRequset::test_get_07",
+  "Unit_test.py::testHttpRequset::test_get_08",
+  "Unit_test.py::testHttpRequset::test_get_09",
+  "Unit_test.py::testHttpRequset::test_get_10"
+]

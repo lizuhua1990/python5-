@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?><testsuite errors="0" failures="0" name="pytest" skips="0" tests="2" time="112.184"><testcase classname="TestCases.test_invest.Test_Invest" file="TestCases\test_invest.py" line="46" name="test_invest_ok" time="92.66922187805176"><system-out>web自动化测试开始咯！
+web自动化测试结束了！
+</system-out></testcase><testcase classname="TestCases.test_login.Test_Login" file="TestCases\test_login.py" line="39" name="test_login_noPasswd" time="19.31875777244568"><system-out>web自动化测试开始咯！
+web自动化测试结束了！
+</system-out></testcase></testsuite>

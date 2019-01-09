@@ -1,0 +1,5 @@
+{
+  "TestCases/test_invest.py::Test_Invest::test_invest_no": true,
+  "TestCases/test_invest.py::Test_Invest::test_invest_ok": true,
+  "TestCases/test_login.py::Test_Login::test_login_ok": true
+}

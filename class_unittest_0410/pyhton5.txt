@@ -1,0 +1,79 @@
+test_get_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset) ... FAIL
+test_post_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset) ... FAIL
+test_get_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset) ... FAIL
+test_get_2 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset) ... ok
+test_post_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset) ... FAIL
+test_get_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset) ... FAIL
+test_get_2 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset) ... ok
+test_post_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset) ... FAIL
+
+======================================================================
+FAIL: test_get_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\python5\class_unittest_0410\class_unittest_yuanLi.py", line 28, in test_get_1
+    self.assertEqual (data['code'],'10001')
+AssertionError: '20110' != '10001'
+- 20110
++ 10001
+
+
+======================================================================
+FAIL: test_post_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\python5\class_unittest_0410\class_unittest_yuanLi.py", line 41, in test_post_1
+    self.assertEqual (data['code'],'10001')
+AssertionError: '20110' != '10001'
+- 20110
++ 10001
+
+
+======================================================================
+FAIL: test_get_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\python5\class_unittest_0410\class_unittest_yuanLi.py", line 28, in test_get_1
+    self.assertEqual (data['code'],'10001')
+AssertionError: '20110' != '10001'
+- 20110
++ 10001
+
+
+======================================================================
+FAIL: test_post_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\python5\class_unittest_0410\class_unittest_yuanLi.py", line 41, in test_post_1
+    self.assertEqual (data['code'],'10001')
+AssertionError: '20110' != '10001'
+- 20110
++ 10001
+
+
+======================================================================
+FAIL: test_get_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\python5\class_unittest_0410\class_unittest_yuanLi.py", line 28, in test_get_1
+    self.assertEqual (data['code'],'10001')
+AssertionError: '20110' != '10001'
+- 20110
++ 10001
+
+
+======================================================================
+FAIL: test_post_1 (class_unittest_0410.class_unittest_yuanLi.testHttpRequset)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "D:\python5\class_unittest_0410\class_unittest_yuanLi.py", line 41, in test_post_1
+    self.assertEqual (data['code'],'10001')
+AssertionError: '20110' != '10001'
+- 20110
++ 10001
+
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.661s
+
+FAILED (failures=6)

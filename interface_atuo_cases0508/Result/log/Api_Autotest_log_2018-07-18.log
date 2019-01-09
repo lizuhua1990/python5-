@@ -1,0 +1,432 @@
+2018-07-18 21:17:43,132-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:32:09,102-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:38:30,467-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:42:31,897-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:44:47,325-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:45:53,147-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:46:24,696-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:46:54,168-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:49:01,583-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:52:10,099-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:52:10,128-[INFO]-logger.py-auto_cases-日志信息:全部执行用例1，手机号可以使用
+2018-07-18 22:52:10,128-[INFO]-logger.py-auto_cases-日志信息:全部执行用例2，手机号可以使用
+2018-07-18 22:52:10,129-[INFO]-logger.py-auto_cases-日志信息:全部执行用例3，手机号可以使用
+2018-07-18 22:52:10,130-[INFO]-logger.py-auto_cases-日志信息:全部执行用例4，手机号可以使用
+2018-07-18 22:52:10,130-[INFO]-logger.py-auto_cases-日志信息:全部执行用例5，手机号可以使用
+2018-07-18 22:52:10,131-[INFO]-logger.py-auto_cases-日志信息:全部执行用例6，手机号可以使用
+2018-07-18 22:52:10,132-[INFO]-logger.py-auto_cases-日志信息:全部执行用例7，手机号可以使用
+2018-07-18 22:52:10,132-[INFO]-logger.py-auto_cases-日志信息:全部执行用例8，手机号可以使用
+2018-07-18 22:52:10,133-[INFO]-logger.py-auto_cases-日志信息:全部执行用例9，手机号可以使用
+2018-07-18 22:52:10,133-[INFO]-logger.py-auto_cases-日志信息:全部执行用例10，手机号可以使用
+2018-07-18 22:52:10,156-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:10,157-[INFO]-logger.py-auto_cases-日志信息:正在执行第1条用例
+2018-07-18 22:52:10,157-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:10,573-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：'20110' != '10001'
+- 20110
++ 10001
+——原因：手机号码已被注册
+2018-07-18 22:52:10,574-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：手机号码已被注册
+2018-07-18 22:52:10,634-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:10,635-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:10,637-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:10,637-[INFO]-logger.py-auto_cases-日志信息:正在执行第2条用例
+2018-07-18 22:52:10,638-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:11,075-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:52:11,076-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:52:11,130-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:11,131-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:11,132-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:11,133-[INFO]-logger.py-auto_cases-日志信息:正在执行第3条用例
+2018-07-18 22:52:11,133-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:11,549-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：'20110' != '10001'
+- 20110
++ 10001
+——原因：手机号码已被注册
+2018-07-18 22:52:11,550-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：手机号码已被注册
+2018-07-18 22:52:11,604-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:11,604-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:11,605-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:11,606-[INFO]-logger.py-auto_cases-日志信息:正在执行第4条用例
+2018-07-18 22:52:11,607-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:12,004-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:52:12,005-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:52:12,055-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:12,055-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:12,056-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:12,057-[INFO]-logger.py-auto_cases-日志信息:正在执行第5条用例
+2018-07-18 22:52:12,057-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:12,478-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:52:12,479-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:52:12,532-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:12,532-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:12,533-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:12,534-[INFO]-logger.py-auto_cases-日志信息:正在执行第6条用例
+2018-07-18 22:52:12,535-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:12,918-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:52:12,919-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:52:12,978-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:12,979-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:12,980-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:12,981-[INFO]-logger.py-auto_cases-日志信息:正在执行第7条用例
+2018-07-18 22:52:12,981-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:13,442-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:52:13,443-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:52:13,503-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:13,503-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:13,504-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:13,505-[INFO]-logger.py-auto_cases-日志信息:正在执行第8条用例
+2018-07-18 22:52:13,506-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:13,967-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:52:13,968-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:52:14,024-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:14,025-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:14,026-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:14,026-[INFO]-logger.py-auto_cases-日志信息:正在执行第9条用例
+2018-07-18 22:52:14,027-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:14,449-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:52:14,449-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:52:14,505-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:14,506-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:52:14,507-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:52:14,507-[INFO]-logger.py-auto_cases-日志信息:正在执行第10条用例
+2018-07-18 22:52:14,508-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:52:14,890-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:52:14,890-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:52:14,945-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:52:14,946-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:41,454-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 22:55:41,483-[INFO]-logger.py-auto_cases-日志信息:全部执行用例1，手机号可以使用
+2018-07-18 22:55:41,484-[INFO]-logger.py-auto_cases-日志信息:全部执行用例2，手机号可以使用
+2018-07-18 22:55:41,485-[INFO]-logger.py-auto_cases-日志信息:全部执行用例3，手机号可以使用
+2018-07-18 22:55:41,486-[INFO]-logger.py-auto_cases-日志信息:全部执行用例4，手机号可以使用
+2018-07-18 22:55:41,487-[INFO]-logger.py-auto_cases-日志信息:全部执行用例5，手机号可以使用
+2018-07-18 22:55:41,488-[INFO]-logger.py-auto_cases-日志信息:全部执行用例6，手机号可以使用
+2018-07-18 22:55:41,488-[INFO]-logger.py-auto_cases-日志信息:全部执行用例7，手机号可以使用
+2018-07-18 22:55:41,489-[INFO]-logger.py-auto_cases-日志信息:全部执行用例8，手机号可以使用
+2018-07-18 22:55:41,490-[INFO]-logger.py-auto_cases-日志信息:全部执行用例9，手机号可以使用
+2018-07-18 22:55:41,491-[INFO]-logger.py-auto_cases-日志信息:全部执行用例10，手机号可以使用
+2018-07-18 22:55:41,510-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:41,511-[INFO]-logger.py-auto_cases-日志信息:正在执行第1条用例
+2018-07-18 22:55:41,511-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:42,068-[INFO]-logger.py-auto_cases-日志信息:用例code比对成功！
+2018-07-18 22:55:42,069-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：注册成功
+2018-07-18 22:55:42,120-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:42,121-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:42,122-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:42,123-[INFO]-logger.py-auto_cases-日志信息:正在执行第2条用例
+2018-07-18 22:55:42,124-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:42,591-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:55:42,592-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:55:42,641-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:42,642-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:42,643-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:42,644-[INFO]-logger.py-auto_cases-日志信息:正在执行第3条用例
+2018-07-18 22:55:42,644-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:43,106-[INFO]-logger.py-auto_cases-日志信息:用例code比对成功！
+2018-07-18 22:55:43,107-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：注册成功
+2018-07-18 22:55:43,167-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:43,168-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:43,170-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:43,170-[INFO]-logger.py-auto_cases-日志信息:正在执行第4条用例
+2018-07-18 22:55:43,171-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:43,753-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:55:43,754-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:55:43,802-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:43,802-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:43,803-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:43,804-[INFO]-logger.py-auto_cases-日志信息:正在执行第5条用例
+2018-07-18 22:55:43,804-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:44,299-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:55:44,300-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:55:44,349-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:44,349-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:44,350-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:44,351-[INFO]-logger.py-auto_cases-日志信息:正在执行第6条用例
+2018-07-18 22:55:44,352-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:44,858-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:55:44,858-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:55:44,909-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:44,909-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:44,910-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:44,911-[INFO]-logger.py-auto_cases-日志信息:正在执行第7条用例
+2018-07-18 22:55:44,911-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:45,440-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:55:45,440-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:55:45,491-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:45,491-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:45,492-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:45,493-[INFO]-logger.py-auto_cases-日志信息:正在执行第8条用例
+2018-07-18 22:55:45,494-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:45,992-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:55:45,992-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:55:46,042-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:46,042-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:46,044-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:46,044-[INFO]-logger.py-auto_cases-日志信息:正在执行第9条用例
+2018-07-18 22:55:46,045-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:46,482-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:55:46,482-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:55:46,535-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:46,535-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 22:55:46,537-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 22:55:46,538-[INFO]-logger.py-auto_cases-日志信息:正在执行第10条用例
+2018-07-18 22:55:46,538-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 22:55:47,040-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 22:55:47,040-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 22:55:47,090-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 22:55:47,090-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:20,567-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 23:00:20,594-[INFO]-logger.py-auto_cases-日志信息:全部执行用例1，手机号可以使用
+2018-07-18 23:00:20,595-[INFO]-logger.py-auto_cases-日志信息:全部执行用例2，手机号可以使用
+2018-07-18 23:00:20,595-[INFO]-logger.py-auto_cases-日志信息:全部执行用例3，手机号可以使用
+2018-07-18 23:00:20,596-[INFO]-logger.py-auto_cases-日志信息:全部执行用例4，手机号可以使用
+2018-07-18 23:00:20,597-[INFO]-logger.py-auto_cases-日志信息:全部执行用例5，手机号可以使用
+2018-07-18 23:00:20,598-[INFO]-logger.py-auto_cases-日志信息:全部执行用例6，手机号可以使用
+2018-07-18 23:00:20,598-[INFO]-logger.py-auto_cases-日志信息:全部执行用例7，手机号可以使用
+2018-07-18 23:00:20,599-[INFO]-logger.py-auto_cases-日志信息:全部执行用例8，手机号可以使用
+2018-07-18 23:00:20,600-[INFO]-logger.py-auto_cases-日志信息:全部执行用例9，手机号可以使用
+2018-07-18 23:00:20,600-[INFO]-logger.py-auto_cases-日志信息:全部执行用例10，手机号可以使用
+2018-07-18 23:00:20,614-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:20,615-[INFO]-logger.py-auto_cases-日志信息:正在执行第1条用例
+2018-07-18 23:00:20,615-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:22,115-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: 20110 != 10001——原因：手机号码已被注册
+2018-07-18 23:00:22,115-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：手机号码已被注册
+2018-07-18 23:00:22,144-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:22,144-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:22,949-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:22,950-[INFO]-logger.py-auto_cases-日志信息:正在执行第2条用例
+2018-07-18 23:00:22,950-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:23,829-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: None != 10001——原因：抱歉，请先登录。
+2018-07-18 23:00:23,830-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:00:23,857-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:23,858-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:24,424-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:24,425-[INFO]-logger.py-auto_cases-日志信息:正在执行第3条用例
+2018-07-18 23:00:24,425-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:25,476-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: 20110 != 10001——原因：手机号码已被注册
+2018-07-18 23:00:25,477-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：手机号码已被注册
+2018-07-18 23:00:25,532-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:25,533-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:26,107-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:26,108-[INFO]-logger.py-auto_cases-日志信息:正在执行第4条用例
+2018-07-18 23:00:26,108-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:26,650-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: None != 10001——原因：抱歉，请先登录。
+2018-07-18 23:00:26,651-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:00:26,679-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:26,680-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:27,247-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:27,248-[INFO]-logger.py-auto_cases-日志信息:正在执行第5条用例
+2018-07-18 23:00:27,249-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:27,835-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: None != 10001——原因：抱歉，请先登录。
+2018-07-18 23:00:27,836-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:00:27,864-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:27,865-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:28,442-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:28,443-[INFO]-logger.py-auto_cases-日志信息:正在执行第6条用例
+2018-07-18 23:00:28,443-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:29,129-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: None != 10001——原因：抱歉，请先登录。
+2018-07-18 23:00:29,130-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:00:29,159-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:29,160-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:29,728-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:29,729-[INFO]-logger.py-auto_cases-日志信息:正在执行第7条用例
+2018-07-18 23:00:29,730-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:30,259-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: None != 10001——原因：抱歉，请先登录。
+2018-07-18 23:00:30,260-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:00:30,292-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:30,293-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:30,838-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:30,839-[INFO]-logger.py-auto_cases-日志信息:正在执行第8条用例
+2018-07-18 23:00:30,839-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:31,272-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: None != 10001——原因：抱歉，请先登录。
+2018-07-18 23:00:31,273-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:00:31,336-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:31,337-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:31,901-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:31,901-[INFO]-logger.py-auto_cases-日志信息:正在执行第9条用例
+2018-07-18 23:00:31,902-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:32,326-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: None != 10001——原因：抱歉，请先登录。
+2018-07-18 23:00:32,327-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:00:32,355-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:32,355-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:00:32,895-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:00:32,896-[INFO]-logger.py-auto_cases-日志信息:正在执行第10条用例
+2018-07-18 23:00:32,897-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:00:33,385-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错： :: None != 10001——原因：抱歉，请先登录。
+2018-07-18 23:00:33,386-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错： :: 0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:00:33,419-[INFO]-logger.py-auto_cases-日志信息:数据写入失败！[Errno 13] Permission denied: 'D:\\python5\\interface_atuo_cases0508\\test_data\\rechargetestcases.xlsx'
+2018-07-18 23:00:33,420-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:32,002-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 23:46:32,029-[INFO]-logger.py-auto_cases-日志信息:全部执行用例1，手机号可以使用
+2018-07-18 23:46:32,030-[INFO]-logger.py-auto_cases-日志信息:全部执行用例2，手机号可以使用
+2018-07-18 23:46:32,031-[INFO]-logger.py-auto_cases-日志信息:全部执行用例3，手机号可以使用
+2018-07-18 23:46:32,031-[INFO]-logger.py-auto_cases-日志信息:全部执行用例4，手机号可以使用
+2018-07-18 23:46:32,032-[INFO]-logger.py-auto_cases-日志信息:全部执行用例5，手机号可以使用
+2018-07-18 23:46:32,033-[INFO]-logger.py-auto_cases-日志信息:全部执行用例6，手机号可以使用
+2018-07-18 23:46:32,034-[INFO]-logger.py-auto_cases-日志信息:全部执行用例7，手机号可以使用
+2018-07-18 23:46:32,035-[INFO]-logger.py-auto_cases-日志信息:全部执行用例8，手机号可以使用
+2018-07-18 23:46:32,035-[INFO]-logger.py-auto_cases-日志信息:全部执行用例9，手机号可以使用
+2018-07-18 23:46:32,036-[INFO]-logger.py-auto_cases-日志信息:全部执行用例10，手机号可以使用
+2018-07-18 23:46:32,055-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:32,055-[INFO]-logger.py-auto_cases-日志信息:正在执行第1条用例
+2018-07-18 23:46:32,056-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:32,445-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：'20110' != '10001'
+- 20110
++ 10001
+——原因：手机号码已被注册
+2018-07-18 23:46:32,445-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：手机号码已被注册
+2018-07-18 23:46:32,507-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:32,508-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:32,510-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:32,511-[INFO]-logger.py-auto_cases-日志信息:正在执行第2条用例
+2018-07-18 23:46:32,511-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:32,958-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:46:32,959-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:46:33,019-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:33,020-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:33,021-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:33,021-[INFO]-logger.py-auto_cases-日志信息:正在执行第3条用例
+2018-07-18 23:46:33,022-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:33,384-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：'20110' != '10001'
+- 20110
++ 10001
+——原因：手机号码已被注册
+2018-07-18 23:46:33,385-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：手机号码已被注册
+2018-07-18 23:46:33,435-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:33,436-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:33,437-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:33,437-[INFO]-logger.py-auto_cases-日志信息:正在执行第4条用例
+2018-07-18 23:46:33,438-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:33,876-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:46:33,876-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:46:33,929-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:33,929-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:33,930-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:33,931-[INFO]-logger.py-auto_cases-日志信息:正在执行第5条用例
+2018-07-18 23:46:33,932-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:34,306-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:46:34,306-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:46:34,356-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:34,357-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:34,358-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:34,358-[INFO]-logger.py-auto_cases-日志信息:正在执行第6条用例
+2018-07-18 23:46:34,359-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:34,789-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:46:34,790-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:46:34,841-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:34,842-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:34,843-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:34,844-[INFO]-logger.py-auto_cases-日志信息:正在执行第7条用例
+2018-07-18 23:46:34,844-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:35,252-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:46:35,253-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:46:35,303-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:35,303-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:35,304-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:35,305-[INFO]-logger.py-auto_cases-日志信息:正在执行第8条用例
+2018-07-18 23:46:35,305-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:35,708-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:46:35,708-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:46:35,765-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:35,766-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:35,767-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:35,767-[INFO]-logger.py-auto_cases-日志信息:正在执行第9条用例
+2018-07-18 23:46:35,768-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:36,162-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:46:36,163-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:46:36,213-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:36,213-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:46:36,214-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:46:36,215-[INFO]-logger.py-auto_cases-日志信息:正在执行第10条用例
+2018-07-18 23:46:36,216-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:46:36,598-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:46:36,598-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:46:36,647-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:46:36,648-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:42,664-[INFO]-logger.py-auto_cases-日志信息:获取表单成功：<Worksheet "rechargetestcases">
+2018-07-18 23:47:42,691-[INFO]-logger.py-auto_cases-日志信息:全部执行用例1，手机号可以使用
+2018-07-18 23:47:42,691-[INFO]-logger.py-auto_cases-日志信息:全部执行用例2，手机号可以使用
+2018-07-18 23:47:42,692-[INFO]-logger.py-auto_cases-日志信息:全部执行用例3，手机号可以使用
+2018-07-18 23:47:42,693-[INFO]-logger.py-auto_cases-日志信息:全部执行用例4，手机号可以使用
+2018-07-18 23:47:42,693-[INFO]-logger.py-auto_cases-日志信息:全部执行用例5，手机号可以使用
+2018-07-18 23:47:42,694-[INFO]-logger.py-auto_cases-日志信息:全部执行用例6，手机号可以使用
+2018-07-18 23:47:42,695-[INFO]-logger.py-auto_cases-日志信息:全部执行用例7，手机号可以使用
+2018-07-18 23:47:42,695-[INFO]-logger.py-auto_cases-日志信息:全部执行用例8，手机号可以使用
+2018-07-18 23:47:42,696-[INFO]-logger.py-auto_cases-日志信息:全部执行用例9，手机号可以使用
+2018-07-18 23:47:42,696-[INFO]-logger.py-auto_cases-日志信息:全部执行用例10，手机号可以使用
+2018-07-18 23:47:42,714-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:42,715-[INFO]-logger.py-auto_cases-日志信息:正在执行第1条用例
+2018-07-18 23:47:42,716-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:43,089-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：'20110' != '10001'
+- 20110
++ 10001
+——原因：手机号码已被注册
+2018-07-18 23:47:43,089-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：手机号码已被注册
+2018-07-18 23:47:43,144-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:43,144-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:43,146-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:43,147-[INFO]-logger.py-auto_cases-日志信息:正在执行第2条用例
+2018-07-18 23:47:43,148-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:43,535-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:47:43,535-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:47:43,590-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:43,591-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:43,592-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:43,592-[INFO]-logger.py-auto_cases-日志信息:正在执行第3条用例
+2018-07-18 23:47:43,593-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:44,010-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：'20110' != '10001'
+- 20110
++ 10001
+——原因：手机号码已被注册
+2018-07-18 23:47:44,011-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：手机号码已被注册
+2018-07-18 23:47:44,068-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:44,069-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:44,070-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:44,071-[INFO]-logger.py-auto_cases-日志信息:正在执行第4条用例
+2018-07-18 23:47:44,072-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:44,455-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:47:44,456-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:47:44,508-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:44,509-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:44,510-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:44,511-[INFO]-logger.py-auto_cases-日志信息:正在执行第5条用例
+2018-07-18 23:47:44,512-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:44,927-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:47:44,928-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:47:44,981-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:44,981-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:44,982-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:44,983-[INFO]-logger.py-auto_cases-日志信息:正在执行第6条用例
+2018-07-18 23:47:44,983-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:45,384-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:47:45,384-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:47:45,434-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:45,435-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:45,436-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:45,436-[INFO]-logger.py-auto_cases-日志信息:正在执行第7条用例
+2018-07-18 23:47:45,437-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:45,814-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:47:45,815-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:47:45,868-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:45,868-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:45,869-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:45,870-[INFO]-logger.py-auto_cases-日志信息:正在执行第8条用例
+2018-07-18 23:47:45,871-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:46,268-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:47:46,268-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:47:46,339-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:46,340-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:46,341-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:46,342-[INFO]-logger.py-auto_cases-日志信息:正在执行第9条用例
+2018-07-18 23:47:46,342-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:46,736-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:47:46,736-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:47:46,787-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:46,787-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================
+2018-07-18 23:47:46,788-[INFO]-logger.py-auto_cases-日志信息:============我要开始测试了===============
+2018-07-18 23:47:46,789-[INFO]-logger.py-auto_cases-日志信息:正在执行第10条用例
+2018-07-18 23:47:46,789-[INFO]-logger.py-auto_cases-日志信息:现在开始进行get请求
+2018-07-18 23:47:47,210-[INFO]-logger.py-auto_cases-日志信息:用例code比对报错：None != '10001'——原因：抱歉，请先登录。
+2018-07-18 23:47:47,210-[INFO]-logger.py-auto_cases-日志信息:执行用例sql比对报错：0 != 1——原因：抱歉，请先登录。
+2018-07-18 23:47:47,260-[INFO]-logger.py-auto_cases-日志信息:执行写入excel成功！
+2018-07-18 23:47:47,261-[INFO]-logger.py-auto_cases-日志信息:===============我要结束测试了！==================

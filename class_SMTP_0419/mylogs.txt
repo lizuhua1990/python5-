@@ -1,0 +1,161 @@
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+加法出错了！,错误的是：unsupported operand type(s) for +: 'int' and 'str'
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+第一个加数的值是：1
+第二个加数的值是：444
+加法出错了！,错误的是：unsupported operand type(s) for +: 'int' and 'str'
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+第一个加数的值是：1
+第二个加数的值是：444
+加法出错了！,错误的是：unsupported operand type(s) for +: 'int' and 'str'
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+2018-04-20 20:59:53,649-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 20:59:53,666-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 20:59:53,666-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 20:59:53,666-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 20:59:53,667-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:01:12,037-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:01:12,037-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:01:12,037-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:01:12,037-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:01:12,037-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:02:11,396-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:02:11,396-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:02:11,396-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:02:11,396-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:02:11,396-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:03:23,298-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:03:23,298-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:03:23,298-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:03:23,298-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:03:23,298-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+2018-04-20 21:07:10,343-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:07:10,343-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:07:10,343-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:07:10,343-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:07:10,343-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:07:45,691-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:07:45,691-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:07:45,691-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:07:45,691-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:07:45,691-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:08:59,856-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:08:59,856-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:08:59,856-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:08:59,856-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:08:59,856-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:11:10,279-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:11:10,279-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:11:10,279-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:11:10,279-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:11:10,279-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:12:16,455-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:12:16,455-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:12:16,456-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:12:16,456-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:12:16,456-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:13:06,793-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:13:06,793-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:13:06,793-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:13:06,793-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:13:06,793-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:13:44,211-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:13:44,211-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:13:44,211-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:13:44,211-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:13:44,211-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:15:21,654-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:15:21,655-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:15:21,655-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:15:21,655-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:15:21,655-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:15:33,226-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:15:33,226-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:15:33,226-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:15:33,226-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:15:33,226-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+凉凉
+成都秀
+左左
+解冻打捞
+华华
+2018-04-20 21:20:01,467-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-20 21:20:01,467-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-20 21:20:01,467-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-20 21:20:01,467-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-20 21:20:01,467-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-20 21:28:09,488-DEBUG-DEBUG-日志信息:凉凉
+2018-04-20 21:28:09,488-INFO-INFO-日志信息:成都秀
+2018-04-20 21:28:09,488-WARNING-WARNING-日志信息:左左
+2018-04-20 21:28:09,488-ERROR-ERROR-日志信息:解冻打捞
+2018-04-20 21:28:09,488-CRITICAL-CRITICAL-日志信息:华华
+2018-04-20 21:28:09,488-INFO-INFO-日志信息:第一个加数的值是：1
+2018-04-20 21:28:09,488-INFO-INFO-日志信息:第二个加数的值是：444
+2018-04-20 21:28:09,488-ERROR-ERROR-日志信息:加法出错了！,错误的是：unsupported operand type(s) for +: 'int' and 'str'
+2018-04-20 21:28:21,548-DEBUG-DEBUG-日志信息:凉凉
+2018-04-20 21:28:21,548-INFO-INFO-日志信息:成都秀
+2018-04-20 21:28:21,548-WARNING-WARNING-日志信息:左左
+2018-04-20 21:28:21,548-ERROR-ERROR-日志信息:解冻打捞
+2018-04-20 21:28:21,549-CRITICAL-CRITICAL-日志信息:华华
+2018-04-20 21:30:23,698-DEBUG-DEBUG-35-日志信息:凉凉
+2018-04-20 21:30:23,698-INFO-INFO-36-日志信息:成都秀
+2018-04-20 21:30:23,698-WARNING-WARNING-37-日志信息:左左
+2018-04-20 21:30:23,698-ERROR-ERROR-38-日志信息:解冻打捞
+2018-04-20 21:30:23,698-CRITICAL-CRITICAL-39-日志信息:华华
+2018-04-20 21:30:23,698-INFO-INFO-42-日志信息:第一个加数的值是：1
+2018-04-20 21:30:23,698-INFO-INFO-43-日志信息:第二个加数的值是：444
+2018-04-20 21:30:23,698-ERROR-ERROR-48-日志信息:加法出错了！,错误的是：unsupported operand type(s) for +: 'int' and 'str'
+2018-04-21 13:14:04,133-DEBUG-class_logging.py-stleath_log-日志信息:凉凉
+2018-04-21 13:14:04,134-INFO-class_logging.py-stleath_log-日志信息:成都秀
+2018-04-21 13:14:04,134-WARNING-class_logging.py-stleath_log-日志信息:左左
+2018-04-21 13:14:04,134-ERROR-class_logging.py-stleath_log-日志信息:解冻打捞
+2018-04-21 13:14:04,134-CRITICAL-class_logging.py-stleath_log-日志信息:华华
+2018-04-21 14:09:48,515-DEBUG-DEBUG-35-日志信息:凉凉
+2018-04-21 14:09:48,515-INFO-INFO-36-日志信息:成都秀
+2018-04-21 14:09:48,515-WARNING-WARNING-37-日志信息:左左
+2018-04-21 14:09:48,515-ERROR-ERROR-38-日志信息:解冻打捞
+2018-04-21 14:09:48,515-CRITICAL-CRITICAL-39-日志信息:华华
+2018-04-21 14:09:48,516-INFO-INFO-42-日志信息:第一个加数的值是：1
+2018-04-21 14:09:48,516-INFO-INFO-43-日志信息:第二个加数的值是：444
+2018-04-21 14:09:48,516-ERROR-ERROR-48-日志信息:加法出错了！,错误的是：unsupported operand type(s) for +: 'int' and 'str'
+2018-04-24 10:44:36,923-DEBUG-homework_logging0419.py-stleath_log-日志信息:凉凉
+2018-04-24 10:44:36,937-INFO-homework_logging0419.py-stleath_log-日志信息:成都秀
+2018-04-24 10:44:36,938-WARNING-homework_logging0419.py-stleath_log-日志信息:左左
+2018-04-24 10:44:36,938-ERROR-homework_logging0419.py-stleath_log-日志信息:解冻打捞
+2018-04-24 10:44:36,938-CRITICAL-homework_logging0419.py-stleath_log-日志信息:华华

@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1a1 (Python 3.6.1 on win32)" generated="20180731 18:04:49.797" rpa="false">
+<suite id="s1" name="测试用例示例" source="D:\python5\python5_RobotFramework_web自动化项目实战\测试用例示例.robot">
+<test id="s1-t1" name="获取当前的时间">
+<kw name="Get Current Date" library="DateTime">
+<doc>Returns current local or UTC time with an optional increment.</doc>
+<assign>
+<var>${cur_date}</var>
+</assign>
+<msg timestamp="20180731 18:04:49.990" level="INFO">${cur_date} = 2018-07-31 18:04:49.990</msg>
+<status status="PASS" starttime="20180731 18:04:49.990" endtime="20180731 18:04:49.990"></status>
+</kw>
+<status status="PASS" starttime="20180731 18:04:49.988" endtime="20180731 18:04:49.991" critical="yes"></status>
+</test>
+<test id="s1-t2" name="我是测试版">
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>我是测试版hello</arg>
+</arguments>
+<msg timestamp="20180731 18:04:49.994" level="INFO">我是测试版hello</msg>
+<status status="PASS" starttime="20180731 18:04:49.994" endtime="20180731 18:04:49.994"></status>
+</kw>
+<status status="PASS" starttime="20180731 18:04:49.993" endtime="20180731 18:04:49.995" critical="yes"></status>
+</test>
+<test id="s1-t3" name="加法计算">
+<kw name="Set Variable" library="BuiltIn">
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<arguments>
+<arg>10</arg>
+</arguments>
+<assign>
+<var>${a}</var>
+</assign>
+<msg timestamp="20180731 18:04:49.999" level="INFO">${a} = 10</msg>
+<status status="PASS" starttime="20180731 18:04:49.999" endtime="20180731 18:04:49.999"></status>
+</kw>
+<kw name="Set Variable" library="BuiltIn">
+<doc>Returns the given values which can then be assigned to a variables.</doc>
+<arguments>
+<arg>15</arg>
+</arguments>
+<assign>
+<var>${b}</var>
+</assign>
+<msg timestamp="20180731 18:04:50.000" level="INFO">${b} = 15</msg>
+<status status="PASS" starttime="20180731 18:04:50.000" endtime="20180731 18:04:50.000"></status>
+</kw>
+<kw name="Evaluate" library="BuiltIn">
+<doc>Evaluates the given expression in Python and returns the results.</doc>
+<arguments>
+<arg>${a}+${b}</arg>
+</arguments>
+<assign>
+<var>${add}</var>
+</assign>
+<msg timestamp="20180731 18:04:50.000" level="INFO">${add} = 25</msg>
+<status status="PASS" starttime="20180731 18:04:50.000" endtime="20180731 18:04:50.000"></status>
+</kw>
+<kw name="Should Be Equal As Integers" library="BuiltIn">
+<doc>Fails if objects are unequal after converting them to integers.</doc>
+<arguments>
+<arg>25</arg>
+<arg>${add}</arg>
+</arguments>
+<msg timestamp="20180731 18:04:50.001" level="INFO">Argument types are:
+&lt;type 'unicode'&gt;
+&lt;class 'int'&gt;</msg>
+<status status="PASS" starttime="20180731 18:04:50.001" endtime="20180731 18:04:50.001"></status>
+</kw>
+<status status="PASS" starttime="20180731 18:04:49.998" endtime="20180731 18:04:50.001" critical="yes"></status>
+</test>
+<test id="s1-t4" name="创建变量">
+<kw name="Create Dictionary" library="BuiltIn">
+<doc>Creates and returns a dictionary based on the given ``items``.</doc>
+<arguments>
+<arg>hello=world</arg>
+<arg>hobby=wzry</arg>
+</arguments>
+<assign>
+<var>&amp;{dict_my}</var>
+</assign>
+<msg timestamp="20180731 18:04:50.005" level="INFO">&amp;{dict_my} = { hello=world | hobby=wzry }</msg>
+<status status="PASS" starttime="20180731 18:04:50.004" endtime="20180731 18:04:50.005"></status>
+</kw>
+<kw name="Create Dictionary" library="BuiltIn">
+<doc>Creates and returns a dictionary based on the given ``items``.</doc>
+<arguments>
+<arg>hello=world</arg>
+<arg>hobby=wzry</arg>
+</arguments>
+<assign>
+<var>${dict_my}</var>
+</assign>
+<msg timestamp="20180731 18:04:50.006" level="INFO">${dict_my} = {'hello': 'world', 'hobby': 'wzry'}</msg>
+<status status="PASS" starttime="20180731 18:04:50.005" endtime="20180731 18:04:50.006"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${dict_my.hello}</arg>
+</arguments>
+<msg timestamp="20180731 18:04:50.006" level="INFO">world</msg>
+<status status="PASS" starttime="20180731 18:04:50.006" endtime="20180731 18:04:50.006"></status>
+</kw>
+<kw name="Create List" library="BuiltIn">
+<doc>Returns a list containing given items.</doc>
+<arguments>
+<arg>123</arg>
+<arg>world</arg>
+<arg>heheda</arg>
+<arg>${dict_my}</arg>
+</arguments>
+<assign>
+<var>@{list_my}</var>
+</assign>
+<msg timestamp="20180731 18:04:50.007" level="INFO">@{list_my} = [ 123 | world | heheda | {'hello': 'world', 'hobby': 'wzry'} ]</msg>
+<status status="PASS" starttime="20180731 18:04:50.006" endtime="20180731 18:04:50.007"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${list_my[-1]}</arg>
+</arguments>
+<msg timestamp="20180731 18:04:50.008" level="INFO">{'hello': 'world', 'hobby': 'wzry'}</msg>
+<status status="PASS" starttime="20180731 18:04:50.007" endtime="20180731 18:04:50.008"></status>
+</kw>
+<kw name="Set To Dictionary" library="Collections">
+<doc>Adds the given ``key_value_pairs`` and ``items`` to the ``dictionary``.</doc>
+<arguments>
+<arg>${dict_my}</arg>
+<arg>key=value</arg>
+</arguments>
+<status status="PASS" starttime="20180731 18:04:50.008" endtime="20180731 18:04:50.008"></status>
+</kw>
+<kw name="Log" library="BuiltIn">
+<doc>Logs the given message with the given level.</doc>
+<arguments>
+<arg>${dict_my}</arg>
+</arguments>
+<msg timestamp="20180731 18:04:50.008" level="INFO">{'hello': 'world', 'hobby': 'wzry', 'key': 'value'}</msg>
+<status status="PASS" starttime="20180731 18:04:50.008" endtime="20180731 18:04:50.008"></status>
+</kw>
+<status status="PASS" starttime="20180731 18:04:50.003" endtime="20180731 18:04:50.009" critical="yes"></status>
+</test>
+<status status="PASS" starttime="20180731 18:04:49.800" endtime="20180731 18:04:50.011"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="4" fail="0">Critical Tests</stat>
+<stat pass="4" fail="0">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="4" fail="0" id="s1" name="测试用例示例">测试用例示例</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
