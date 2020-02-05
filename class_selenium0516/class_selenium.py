@@ -30,7 +30,7 @@ time.sleep(2)
 
 
 #页面操作  点击click  输入send_keys  清空 clear
-driver.find_element_by_id('kw').send_keys('柠檬班')
+driver.find_element_by_id('kw').send_keys('百度')
 driver.find_element_by_id('su').click()
 time.sleep(4)
 driver.quit()

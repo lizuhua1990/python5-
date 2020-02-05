@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://F:/MyBlock/.idea/MyBlock.iml" filepath="F:/MyBlock/.idea/MyBlock.iml" />
+      <module fileurl="file://F:/classpython/.idea/classpython.iml" filepath="F:/classpython/.idea/classpython.iml" />
+      <module fileurl="file://F:/lemon-python/interface_atuo_cases0508/.idea/interface_atuo_cases0508.iml" filepath="F:/lemon-python/interface_atuo_cases0508/.idea/interface_atuo_cases0508.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python5.iml" filepath="$PROJECT_DIR$/.idea/python5.iml" />
+      <module fileurl="file://F:/python_carstudy/python_carstudy.iml" filepath="F:/python_carstudy/python_carstudy.iml" />
+    </modules>
+  </component>
+</project>
